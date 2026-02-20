@@ -1,0 +1,26 @@
+{
+  "name": "mmmsi",
+  "displayName": "Aaaa",
+  "version": "1.0.0",
+  "description": "Built with NEXUS APK Builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"test\""
+  },
+  "keywords": [
+    "cordova",
+    "android"
+  ],
+  "author": "NEXUS APK",
+  "license": "MIT",
+  "devDependencies": {},
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-file": {},
+      "cordova-plugin-media": {}
+    }
+  }
+}
